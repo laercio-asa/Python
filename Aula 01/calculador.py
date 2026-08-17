@@ -39,5 +39,5 @@ elif operador == "/":
     resultado = float(primeiro_numero) / float(segundo_numero)
 else:
     resultado = 0
-    print("Você informou um operador que não existe!!!")
+    print("Você informou um operador que não existe!!")
 print(resultado)
